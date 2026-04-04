@@ -1,9 +1,4 @@
-## 👩🏻‍💻 Cris Bento
-
-**`Science Computer`**
-
-
-<p align="center"><a href="https://CrislaynneBento.github.io"><img width="80%" alt="Hello, I'm Cris. I Computer Science student!" src="./assets/gh-readme-header.png" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=700&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
 
 
 
