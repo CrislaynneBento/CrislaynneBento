@@ -1,11 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=700&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=900&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
 
-
-
-<br>
-<br>
-
-### Linguagens e Tecnologias
+# Hey :)
+I'm Crislaynne, but everyone call me Cris. I am a studyiend sciente computer at the Federal University of Ceará, i have always loved technology since childhood; today, I am deepening my knowledge of the logic behind back-end and front-end developed, but i also have an interest in robotics. 
 
 <img 
     aligh="left"
