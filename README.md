@@ -3,7 +3,7 @@
 **`Science Computer`**
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=200&size=18&pause=1000&color=A6D0F2&background=2BFFC400&center=true&vCenter=true&random=true&width=435&lines=Hey+%3A);Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=200&size=25&pause=1000&color=9E4CE6&background=2BFFC400&center=true&vCenter=true&random=true&width=435&lines=Hey+%3A);Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 ---
