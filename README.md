@@ -60,9 +60,6 @@ I'm Crislaynne, but everyone call me Cris. I am a studyiend sciente computer at 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
----
-### Estatísticas
-
 
 
           
