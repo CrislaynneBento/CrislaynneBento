@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=900&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
 
 # Hey :)
-I'm Crislaynne, but everyone call me Cris. I am a studyiend sciente computer at the Federal University of Ceará, i have always loved technology since childhood, today, I am deepening my knowledge of the logic behind back-end and front-end developed, but i also have an interest in robotics. 
+Hi! I'm Crislaynne, but you can call me Cris, i'm a Computer Science student at the Federal University of Ceará (UFC), passionate about technology since childhood.
+Currently, I'm deepening my knowledge in both back-end and front-end development, focusing on understanding the logic behind systems and how everything connects.
+I'm also very interested in robotics and always excited to explore new areas in tech.
+Always learning, building, and evolving. 
 
 <img 
     aligh="left"
