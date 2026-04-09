@@ -4,7 +4,7 @@
 Hi! I'm Crislaynne, but you can call me Cris, i'm a Computer Science student at the Federal University of Ceará (UFC), passionate about technology since childhood.
 Currently, I'm deepening my knowledge in both back-end and front-end development, focusing on understanding the logic behind systems and how everything connects.
 I'm also very interested in robotics and always excited to explore new areas in tech.
-Always learning, building, and evolving. 
+Always learning, failing, and iterating. 
 
 <img 
     aligh="left"
