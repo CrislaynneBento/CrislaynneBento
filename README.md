@@ -10,7 +10,7 @@ Always learning, failing, and iterating.
     aligh="left"
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -18,7 +18,7 @@ Always learning, failing, and iterating.
     aligh="left"
     alt="JAVA"
     title="JAVA"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"  
 />
@@ -26,7 +26,7 @@ Always learning, failing, and iterating.
     aligh="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -34,7 +34,7 @@ Always learning, failing, and iterating.
     aligh="left"
     alt="CSS"
     title="CSS"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -42,7 +42,7 @@ Always learning, failing, and iterating.
     alight="left"
     alt="C"
     title="C"
-    width="30px"
+    width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -50,7 +50,7 @@ Always learning, failing, and iterating.
     alight="left"
     alt="Figma"
     title="Figma"
-    width="30px"
+    width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
@@ -58,7 +58,7 @@ Always learning, failing, and iterating.
     alight="left"
     alt="Git"
     title="Git"
-    width="30px"
+    width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -66,7 +66,7 @@ Always learning, failing, and iterating.
     alight="left"
     alt="Mongo"
     title="Mongo"
-    width="30px"
+    width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -74,7 +74,7 @@ Always learning, failing, and iterating.
     alight="left"
     alt="postgresql"
     title="postgresql"
-    width="30px"
+    width="50px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
